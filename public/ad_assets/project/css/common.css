@@ -1,0 +1,34 @@
+.bg {
+    background-image: url('../../assets/images/background2.jpg');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.container-fluid {
+    background-color: transparent;
+    color: white;
+}
+
+.table-responsive {
+    background-color: white !important;
+    padding: 10px;
+}
+
+.dataTables_info {
+    color: black !important;
+}
+
+.dataTables_filter label {
+    color: black !important;
+}
+
+.container {
+    background-color: transparent;
+    color: white;
+}
+
+.dataTables_length label {
+    color: black !important;
+}
